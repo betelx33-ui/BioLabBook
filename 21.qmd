@@ -491,7 +491,7 @@ Fill in the following table and answer the following questions:
 **Table 21.2 Urinalysis Results**
 
 | Characteristics | Normal | Possible abnormal results pathologies | Patient A | Patient B | Patient C | Patient D | Patient E |
-|----|----|----|----|----|----|----|----|
+|---------|---------|---------|---------|---------|---------|---------|---------|
 | Color | Light yellow to amber | Dehydration, liver disease, muscular breakdown |  |  |  |  |  |
 | Clarity | Clear | infection |  |  |  |  |  |
 | pH | 4.6-8 | Acidosis, alkalosis |  |  |  |  |  |
@@ -728,7 +728,7 @@ Figure 21.19 Renal anatomy 2.
 ### **Chapter 21: Urinary System Glossary**
 
 | Terms | Definitions |
-|----|----|
+|------------------------------------|------------------------------------|
 | Afferent arteriole | an arteriole that feeds blood into the glomerulus in the nephron |
 | anatomical sphincter | smooth or skeletal muscle surrounding the lumen of a vessel or hollow organ that can restrict flow when contracted |
 | angiotensin I | protein produced by the enzymatic action of renin on angiotensinogen; inactive precursor of angiotensin II |
