@@ -286,21 +286,14 @@ Indicate in the boxes provided the deep and superficial positions.
 
 Use appropriate anatomical and regional terminology to fill in the blanks in the statements below.
 
-+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \#        | Fill in the blank                                                                                                                                                                               |
-+===========+=================================================================================================================================================================================================+
-| 1         | The elbow is located superior to the wrist.                                                                                                                                                     |
-+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2         | The umbilicus is located \_inferior\_ to the sternum.                                                                                                                                           |
-+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3         | The nose is located \_anterior and medial\_ to the ears.                                                                                                                                        |
-+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4         | The mouth is located \_superior\_ to the chin.                                                                                                                                                  |
-+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5         | A papercut that does not penetrate the skin would be considered as a \_superficial\_ wound; however, a puncture wound from a nail penetrating the skin would be considered as a \_deep\_ wound. |
-+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 6         | A wound on the elbow would be superficial to the elbow.                                                                                                                                         |
-+-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| \# | Fill in the blank |
+|----|----|
+| 1 | The elbow is located superior to the wrist. |
+| 2 | The umbilicus is located \_inferior\_ to the sternum. |
+| 3 | The nose is located \_anterior and medial\_ to the ears. |
+| 4 | The mouth is located \_superior\_ to the chin. |
+| 5 | A papercut that does not penetrate the skin would be considered as a \_superficial\_ wound; however, a puncture wound from a nail penetrating the skin would be considered as a \_deep\_ wound. |
+| 6 | A wound on the elbow would be superficial to the elbow. |
 
 ## **Lab Activity 1.5**
 
