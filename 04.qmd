@@ -80,54 +80,54 @@ Define the following terms using your textbook or other reliable academic source
 
 **Types of tissues:**
 
--   Epithelial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Connective \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Muscular \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Nervous \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Epithelial \_covers surfaces and lines cavities\_
+-   Connective \_connect and support\_
+-   Muscular \_\_receives signals to move\_
+-   Nervous \_receive and conduct signals\_
 
 **Epithelial Tissues:**
 
--   Simple squamous \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Stratified squamous (keratinized/nonkeratinized) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Simple cuboidal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Stratified cuboidal/columnar – rare \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Simple columnar \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Pseudostratified columnar epithelium \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Transitional epithelium \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Simple squamous \_\_flat cells for absorption and diffusion\_\_
+-   Stratified squamous (keratinized/nonkeratinized) \_\_multiple layers\_
+-   Simple cuboidal \_box like, used in glands and ducts\_
+-   Stratified cuboidal/columnar – rare \_\_ducts of sweat glands glands\_
+-   Simple columnar \_\_used in large ducts of salivary\_\_\_
+-   Pseudostratified columnar epithelium \_touch basement membrane\_\_\_\_
+-   Transitional epithelium \_\_changes shape to accommodate stretching\_
 
 **Define the following epithelial features:**
 
 -   Epithelial layers:
-    -   Simple \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Stratified \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Simple \_\_1 layer\_\_
+    -   Stratified \_\_multiple layers\_
 -   Surfaces:
-    -   Apical \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Basal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Basement membrane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Apical \_\_free edge, may have cilia or microvili\_\_
+    -   Basal \_attached to other surfaces\_\_
+    -   Basement membrane \_holds epithelia to connective tissue\_
 
 **Connective Tissue:**
 
--   Cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Areolar connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Hyaline cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Adipose tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Fibrocartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Elastic cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Regular dense connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Irregular dense connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Blood – detail in cardiovascular system \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Cartilage \_firm and rubbery\_
+-   Areolar connective tissue \_\_general packing tissue\_\_
+-   Hyaline cartilage \_\_stiffest and most common\_\_\_
+-   Adipose tissue \_\_fat tissue\_\_
+-   Fibrocartilage \_\_resists compression\_\_
+-   Elastic cartilage \_\_springy\_
+-   Regular dense connective tissue \_\_consistent fiber pattern\_\_
+-   Irregular dense connective tissue \_\_no consistent fiber pattern\_\_\_\_\_
+-   Bone \_\_\_\_solid, crystal matrix\_\_\_
+-   Blood – detail in cardiovascular system \_\_liquid plasma matrix\_\_
 
 **Connective Tissue Features:**
 
--   Collagen fibers \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Elastin fibers \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Extracellular matrix \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Cells \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Fibroblasts \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Adipocytes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Chondrocytes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Lacuna \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Collagen fibers \_tough
+-   Elastin fibers stretch
+-   Extracellular matrix collagen and elastin with ground matrix
+-   Cells \_\_cartilage\_\_\_\_
+    -   Fibroblasts \_make fibers\_\_\_\_\_
+    -   Adipocytes contain lipids
+    -   Chondrocytes \_\_\_cartilage cells\_
+-   Lacuna \_\_bone layers\_
 
 ## **Lab Activities**
 
@@ -282,10 +282,17 @@ a)  Structural Connective Tissue
 
 -   Discuss the two ways how epithelium can be classified.
     -   Use examples of how the structure and shape of the epithelium influences the function it serves in the area of the body in which it is located.
+
+        Simple and stratified. Simple is used to form thin layer in tubules and peritoneum to reduce friction and lubrication. Stratified is used to make things tougher to resist abrasions by being keratinized, which also makes it waterproof.
 -   With Respect to the tissues
     -   Name the major tissue types found in the human body.
+
+        epithelial, connective, muscular, neural.
+
     -   Describe their general characteristics and give an example of where they can be found.
--   The \_\_\_\_\_\_ tissue contains an apical surface.
+
+        Epithelial is used on body surfaces in interiors, connective is used for structure, muscular is used for movement, neural receives and conducts signals through the body
+-   The \_epithelial\_ tissue contains an apical surface.
 
 ## **Post Lab Activity 4.2**
 
@@ -296,27 +303,27 @@ a)  Structural Connective Tissue
 
 ![](images/_page_89_Picture_4.jpeg)
 
-1.  **Fig. 4.10**
+1.  **Fig. 4.10 connective, bone**
 
 ![](images/_page_89_Picture_7.jpeg)
 
-2.  **Fig. 4.11**
+2.  **Fig. 4.11 connective, fibrous cartilage**
 
 ![](images/_page_89_Picture_11.jpeg)
 
-3.  **Fig. 4.12**
+3.  **Fig. 4.12 elastic cartilage, connective**
 
 ![](images/_page_89_Picture_5.jpeg)
 
-4.  **Fig. 4.13**
+4.  **Fig. 4.13 connective, areolar**
 
 ![](images/_page_89_Picture_9.jpeg)
 
-5.  **Fig. 4.10**
+5.  **Fig. 4.14 connective, fibrous**
 
 ![](images/_page_89_Picture_13.jpeg)
 
-6.  **Fig. 4.15**
+6.  **Fig. 4.15 connective adipose**
 
 ## **Post Lab Activity 4.3**
 
@@ -328,21 +335,21 @@ Match the following tissue with its function or location.
 
 ### **Across**
 
--   4 kidney glomeruli and alveoli of lungs (6,8,10)
--   5 Carry action potentials throughout the body (6)
--   7 Cells that nourish and support (5,4)
--   9 Protects underlying tissues from abrasion (10,8,10)
--   11 Function: secretion and absorption (6,8,10)
--   12 Attached to the bones, occasionally to the skin (8,6)
+-   4 kidney glomeruli and alveoli of lungs (6,8,10) simple squamous epithelium
+-   5 Carry action potentials throughout the body (6) nueron
+-   7 Cells that nourish and support (5,4) glial cell
+-   9 Protects underlying tissues from abrasion (10,8,10) stratified squamous epithelium
+-   11 Function: secretion and absorption (6,8,10) simple cuboidal epithelium
+-   12 Attached to the bones, occasionally to the skin (8,6) skeletal muscle
 
 ### **Down**
 
--   1 Tendons and ligaments (5,7,10,6)
--   2 Functions as a binding tissue (5,10,6)
--   3 Mineral storage (4)
--   6 Covers the ends of long bones in joint cavities (7,9)
--   8 Contracts, propels blood in the circulation (7,6)
--   10 Mostly in the walls of hollow organs. (6,6)
+-   1 Tendons and ligaments (5,7,10,6) dense regular connective tissue
+-   2 Functions as a binding tissue (5,10,6) loose connective tissue
+-   3 Mineral storage (4) bone
+-   6 Covers the ends of long bones in joint cavities (7,9) hyaline cartilage
+-   8 Contracts, propels blood in the circulation (7,6) cardiac muscle tissue
+-   10 Mostly in the walls of hollow organs. (6,6) smooth muscle
 
 ## **Additional tissue review materials**
 
@@ -423,7 +430,7 @@ Match the following tissue with its function or location.
 **Chapter 4: Histology/Tissues Glossary**
 
 | Terms | Definitions |
-|------------------------------------|------------------------------------|
+|----|----|
 | adipocytes | lipid storage cells |
 | adipose tissue | specialized areolar tissue rich in stored fat |
 | anchoring junction | mechanically attaches adjacent cells to each other or to the basement membrane |

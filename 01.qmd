@@ -156,14 +156,21 @@ Definitions: define the terms that are essential to this chapter.
 
 ### Body Planes
 
-| Term | Definition |
-|----|----|
-| Sagittal plane | parallel to long axis, splits the right and left portions |
-| Midsagittal plane | splits into left and right halves |
-| Parasagittal plane | splits into uneven left and right |
-| Frontal plane | splits anterior and posterior |
-| Transverse plane | separates superior and inferior |
-| Oblique plane | diagonal cut |
++--------------------------+-----------------------------------------------------------+
+| Term                     | Definition                                                |
++==========================+===========================================================+
+| Sagittal plane           | parallel to long axis, splits the right and left portions |
++--------------------------+-----------------------------------------------------------+
+| Midsagittal plane        | splits into left and right halves                         |
++--------------------------+-----------------------------------------------------------+
+| Parasagittal plane       | splits into uneven left and right                         |
++--------------------------+-----------------------------------------------------------+
+| Frontal plane            | splits anterior and posterior                             |
++--------------------------+-----------------------------------------------------------+
+| Transverse plane         | separates superior and inferior                           |
++--------------------------+-----------------------------------------------------------+
+| Oblique plane            | diagonal cut                                              |
++--------------------------+-----------------------------------------------------------+
 
 ## **Prelab Activity 1.2**
 
@@ -200,20 +207,33 @@ Using the lab manual or your textbook, list the 12 organ systems of the body bel
 
 **Table 1.2**. Identification of Organs and their Function
 
++--------------------------------+------------------------+---------------------+
 | Organ System                   | Function               | Organs              |
-|--------------------------------|------------------------|---------------------|
++================================+========================+=====================+
 | 1 integumentary                | superficial protection | skin, hair, nails   |
++--------------------------------+------------------------+---------------------+
 | 2 skeletal                     | structure              | bones               |
++--------------------------------+------------------------+---------------------+
 | 3 muscular                     | movement               | muscles, tendons    |
++--------------------------------+------------------------+---------------------+
 | 4 nervous                      | body control           | brain, spine nerves |
++--------------------------------+------------------------+---------------------+
 | 5 endocrine                    | hormonal control       | glands, pancreas    |
++--------------------------------+------------------------+---------------------+
 | 6 cardiovascular               | transport              | heart, veins        |
++--------------------------------+------------------------+---------------------+
 | 7 lymphatic                    | immune support         | thymus, lymph nodes |
++--------------------------------+------------------------+---------------------+
 | 8 respiratory                  | gas exchange           | lungs               |
++--------------------------------+------------------------+---------------------+
 | 9 digestive                    | nutrient absorption    | stomach, intestines |
++--------------------------------+------------------------+---------------------+
 | 10 urinary                     | waste excretion        | kidneys             |
++--------------------------------+------------------------+---------------------+
 | 11a male reproductive system   | reproduction           | penis, testes       |
++--------------------------------+------------------------+---------------------+
 | 11b female reproductive system | reproduction           | vagina ovaries      |
++--------------------------------+------------------------+---------------------+
 
 ## **Lab Activities**
 
@@ -286,14 +306,21 @@ Indicate in the boxes provided the deep and superficial positions.
 
 Use appropriate anatomical and regional terminology to fill in the blanks in the statements below.
 
-| \# | Fill in the blank |
-|----|----|
-| 1 | The elbow is located superior to the wrist. |
-| 2 | The umbilicus is located \_inferior\_ to the sternum. |
-| 3 | The nose is located \_anterior and medial\_ to the ears. |
-| 4 | The mouth is located \_superior\_ to the chin. |
-| 5 | A papercut that does not penetrate the skin would be considered as a \_superficial\_ wound; however, a puncture wound from a nail penetrating the skin would be considered as a \_deep\_ wound. |
-| 6 | A wound on the elbow would be superficial to the elbow. |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| \#      | Fill in the blank                                                                                                                                                                               |
++=========+=================================================================================================================================================================================================+
+| 1       | The elbow is located superior to the wrist.                                                                                                                                                     |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2       | The umbilicus is located \_inferior\_ to the sternum.                                                                                                                                           |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3       | The nose is located \_anterior and medial\_ to the ears.                                                                                                                                        |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4       | The mouth is located \_superior\_ to the chin.                                                                                                                                                  |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5       | A papercut that does not penetrate the skin would be considered as a \_superficial\_ wound; however, a puncture wound from a nail penetrating the skin would be considered as a \_deep\_ wound. |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6       | A wound on the elbow would be superficial to the elbow.                                                                                                                                         |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## **Lab Activity 1.5**
 
@@ -479,26 +506,26 @@ Ventral body cavities contain **membranes** = soft, thin, pliable layer of tissu
 
 #### **Table 1.3. [Abdominal](https://commons.wikimedia.org/w/index.php?curid=29624323Abdominal) Quadrants**
 
-| Quadrants            | Organs |
-|----------------------|--------|
-| Right upper quadrant |        |
-| Right lower quadrant |        |
-| Left upper quadrant  |        |
-| Left lower quadrant  |        |
+| Quadrants            | Organs                              |
+|----------------------|-------------------------------------|
+| Right upper quadrant | liver, gallbladder, large intestine |
+| Right lower quadrant | appendix                            |
+| Left upper quadrant  | stomach, large intestine            |
+| Left lower quadrant  | small intestine, urinary bladder    |
 
 #### **Table 1.4. Abdominal Regions**
 
-| Regions             | Organs |
-|---------------------|--------|
-| left hypochondriac  |        |
-| epigastric          |        |
-| right hypochondriac |        |
-| left lumbar         |        |
-| umbilical           |        |
-| right lumbar        |        |
-| left iliac          |        |
-| hypogastric         |        |
-| right iliac         |        |
+| Regions             | Organs                            |
+|---------------------|-----------------------------------|
+| left hypochondriac  | spleen                            |
+| epigastric          | liver, stomach                    |
+| right hypochondriac | liver                             |
+| left lumbar         | large intestine                   |
+| umbilical           | gallbladder, large int, small int |
+| right lumbar        | large int                         |
+| left iliac          | large int                         |
+| hypogastric         | lar int, urinary, bladder         |
+| right iliac         | large int                         |
 
 ![](images/_page_19_Figure_0.jpeg)
 
@@ -537,28 +564,28 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 
 ### Systems
 
--   The \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ system forms the external body covering.
--   The \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ system protects deeper tissues from injury.
--   The \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ system synthesizes vitamin D.
--   Organs of the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ system secrete chemicals called hormones into the blood.
--   The \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ system keeps blood supplied with oxygen and disposes of unwanted carbon dioxide.
--   The \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ system produces sperm or eggs and sex hormones.
+-   The \_integumentary\_ system forms the external body covering.
+-   The \_\_muscular\_ system protects deeper tissues from injury.
+-   The \_integumentary\_ system synthesizes vitamin D.
+-   Organs of the \_endocrine\_ system secrete chemicals called hormones into the blood.
+-   The \_respiratory\_ system keeps blood supplied with oxygen and disposes of unwanted carbon dioxide.
+-   The \_reproductive\_ system produces sperm or eggs and sex hormones.
 
 ### Homeostasis
 
--   In a(n) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ feedback system, a change in a condition is sensed and amplified.
--   In a(n) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ feedback system, a change in a condition is sensed and returned toward its previous level.
+-   In a(n) \_positive\_ feedback system, a change in a condition is sensed and amplified.
+-   In a(n) \_\_\_negative feedback\_ feedback system, a change in a condition is sensed and returned toward its previous level.
 
 ### Position terms review:
 
--   The knees are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the ankles.
--   The thumbs are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the pinky fingers.
--   The spine is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the breastbone.
--   The chest is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the shoulder blades.
--   The pinky fingers are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the thumbs.
--   The navel is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the lower back.
--   The eyes are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the bridge of the nose.
--   The breasts are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the lungs.
+-   The knees are \_superior\_ to the ankles.
+-   The thumbs are \_posterior\_ to the pinky fingers.
+-   The spine is \_medial\_ to the breastbone.
+-   The chest is \_lateral\_ to the shoulder blades.
+-   The pinky fingers are \_superior\_ to the thumbs.
+-   The navel is \_inferior\_ to the lower back.
+-   The eyes are \_\_inferior\_\_ to the bridge of the nose.
+-   The breasts are \_anterior\_ to the lungs.
 -   The intestines \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ are to the neck.
 -   The nose is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the mouth.
 -   The elbows are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the wrists.
@@ -577,30 +604,30 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 
 ### Regional terms review
 
--   "Nasal" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
--   "Oral" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
--   "Cervical" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
--   "Acromial" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
--   "Axillary" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
--   "Abdominal" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
--   "Brachial" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
--   "Antecubital" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
--   "Antebrachial" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
--   "Pelvic" refers to the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+-   "Nasal" refers to the \_nose\_.
+-   "Oral" refers to the \_mouth\_.
+-   "Cervical" refers to the \_neck\_.
+-   "Acromial" refers to the \_top of shoulder\_.
+-   "Axillary" refers to the \_armpit\_.
+-   "Abdominal" refers to the \_ads\_.
+-   "Brachial" refers to the \_\_arm\_\_.
+-   "Antecubital" refers to the \_\_front elbow\_.
+-   "Antebrachial" refers to the \_\_forearm\_\_.
+-   "Pelvic" refers to the \_\_pelvis\_\_.
 
 ### Planes
 
--   The \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ or \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ plane separates the anterior and posterior portions of an object
--   The \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_or \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ plane separates the superior and inferior portions of an object.
+-   The \_\_frontal\_ or \_\_coronal\_\_ plane separates the anterior and posterior portions of an object
+-   The \_transverse\_\_or \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ plane separates the superior and inferior portions of an object.
 
 ### Cavities
 
--   The cranial cavity is within the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ cavity.
--   The spinal or vertebral cavity is within the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ cavity.
--   The thoracic cavity is within the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ cavity.
--   The abdominopelvic cavity is within the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ cavity.
--   The brain is found in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ cavity. Use the most specific, i.e., smallest cavity that is appropriate.
--   The spinal cord is found in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ cavity. Use the most specific, i.e., smallest cavity that is appropriate.
+-   The cranial cavity is within the \_\_skull \_\_ cavity.
+-   The spinal or vertebral cavity is within the \_\_\_dorsal\_ cavity.
+-   The thoracic cavity is within the \_\_\_\_ventral\_\_\_ cavity.
+-   The abdominopelvic cavity is within the \_\_ventral \_ cavity.
+-   The brain is found in the \_\_cranial\_\_ cavity. Use the most specific, i.e., smallest cavity that is appropriate.
+-   The spinal cord is found in the \_\_vertebral\_ cavity. Use the most specific, i.e., smallest cavity that is appropriate.
 
 ## **Post Lab Activity 1.2: Multiple choice questions**
 
@@ -608,16 +635,16 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
     a.  Sagittal plane
     b.  Transverse plane
     c.  Oblique plane
-    d.  Frontal plane
+    d.  **Frontal plane 1**
 2.  The diaphragm separates the:
     a.  Cranial and spinal cavities
-    b.  Thoracic and abdominal cavities
+    b.  Thoracic and abdominal cavities 1
     c.  Abdominal and pelvic cavities
     d.  Dorsal and ventral cavities
 3.  To make a banana split, you halve a banana into two long, thin, right, and left sides along the \_\_\_\_\_\_\_\_.
     a.  coronal plane
     b.  longitudinal plane
-    c.  midsagittal plane
+    c.  midsagittal plane 1
     d.  transverse plane
 4.  The heart is within the \_\_\_\_\_\_\_\_.
     a.  cranial cavity
@@ -626,34 +653,34 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
     d.  All the above
 5.  The naval is found in \_\_\_\_\_\_\_\_.
     a.  the iliac region
-    b.  The lumbar region
+    b.  The lumbar region 1
     c.  The umbilical region
     d.  The hypochondriac region
 6.  The thyroid and the adrenal glands compose the \_\_\_\_\_\_\_\_.
     a.  Lymphatic system
     b.  integumentary system
     c.  nervous system
-    d.  endocrine system
+    d.  endocrine system 1
 7.  The body system responsible for structural support and movement is the \_\_\_\_\_\_\_\_.
     a.  cardiovascular system
     b.  endocrine system
-    c.  muscular system
+    c.  muscular system 1
     d.  skeletal system
 8.  What is the position of the body when it is in the “normal anatomical position?”
     a.  The person is prone with upper limbs, including palms, touching sides and lower limbs touching at sides.
     b.  The person is standing facing the observer, with upper limbs extended out at a ninety-degree angle from the torso and lower limbs in a wide stance with feet pointing laterally.
     c.  The person is supine with upper limbs, including palms, touching sides and lower limbs touching at sides.
-    d.  None of the above
+    d.  None of the above 1
 9.  Portion of a serous membrane that is in contact with an organ.
     a.  Mesentery
     b.  Parietal
     c.  Pleural
-    d.  Visceral
+    d.  Visceral 1
     e.  Mediastinal
 10. Away from the midline
     a.  Inferior
     b.  Medial
-    c.  Lateral
+    c.  Lateral 1
     d.  Distal
 
 ## **Post Lab Activity 1.3: Crossword Puzzles**
@@ -664,19 +691,19 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 
 ### **Across**
 
--   **2** Is affected by the removal of the thyroid gland (9)
--   **6** Includes the heart (14)
--   **8** Protects underlying organs from drying out and mechanical damage (13)
--   **10** Moves the limbs (8)
+-   **2** Is affected by the removal of the thyroid gland (9) endocrine
+-   **6** Includes the heart (14) cardiovascular
+-   **8** Protects underlying organs from drying out and mechanical damage (13) integumentary
+-   **10** Moves the limbs (8) muscular
 
 ### **Down**
 
--   **1** Provides for conception and childbearing (12)
--   **3** Brain, nerves, sensory receptors (7)
--   **4** Rids the body of nitrogen-containing wastes (7)
--   **5** Breaks down food into small particles that can be absorbed (9)
--   **7** Provides support and levers on which the muscular system can act (8)
--   **9** Provides oxygen into the blood (11)
+-   **1** Provides for conception and childbearing (12) reproductive
+-   **3** Brain, nerves, sensory receptors (7) nervous
+-   **4** Rids the body of nitrogen-containing wastes (7) urinary
+-   **5** Breaks down food into small particles that can be absorbed (9) digestive
+-   **7** Provides support and levers on which the muscular system can act (8) skeletal
+-   **9** Provides oxygen into the blood (11) respiratory
 
 ![](images/_page_26_Picture_0.jpeg)
 
@@ -686,14 +713,14 @@ Note: The clues include the number of letters in a word in the parentheses at th
 
 ### **Across**
 
--   **4** Cavity surrounded by the rib cage, bounded inferiorly by the diaphragm. (8)
--   **5** Cavities lateral to the heart which contain the lungs (7)
+-   **4** Cavity surrounded by the rib cage, bounded inferiorly by the diaphragm. (8) thoracic
+-   **5** Cavities lateral to the heart which contain the lungs (7) pleural
 
 ### **Down**
 
--   **1** Medial portion of the thoracic cavity; consists of heart, thymus gland, trachea, and blood vessels (11)
--   **2** Small space enclosed by the pelvic bones. (6)
--   **3** Cavity bounded by the abdominal muscles (9)
+-   **1** Medial portion of the thoracic cavity; consists of heart, thymus gland, trachea, and blood vessels (11) mediastinum
+-   **2** Small space enclosed by the pelvic bones. (6) pelvic
+-   **3** Cavity bounded by the abdominal muscles (9) abdominal
 
 ## **Additional Learning Resources: (Robinson, 2019)**
 

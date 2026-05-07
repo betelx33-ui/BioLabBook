@@ -47,46 +47,46 @@ Using your textbook define or identify the following terms.
 
 **Epidermal Layer**
 
-| Term                          | Definition |
-|-------------------------------|------------|
-| Epidermis                     |            |
-| Stratum corneum               |            |
-| Stratum lucidum               |            |
-| Stratum granulosum            |            |
-| Stratum spinosum              |            |
-| Stratum basale (germinitivum) |            |
-| Dermal Layer                  |            |
+| Term | Definition |
+|----|----|
+| Epidermis | top layer of skin |
+| Stratum corneum | top layer of epidermis is made of dead keratinocytes |
+| Stratum lucidum | appears as glassy layer only in thick skin |
+| Stratum granulosum | contain keratinocytes |
+| Stratum spinosum | kerotinocytes bound together in desmosomes |
+| Stratum basale (germinitivum) | deepest epidermal layer, attaches to basement layer |
+| Dermal Layer | middle thick layer of skin |
 
 **Dermal Layer**
 
-| Term            | Definition |
-|-----------------|------------|
-| Dermis          |            |
-| Papillary layer |            |
-| Reticular layer |            |
+| Term | Definition |
+|----|----|
+| Dermis | middle thick layer of skin that supports epidermis |
+| Papillary layer | consists of areolar tissue, capillaries, and lymphatic vessels to support epidermis |
+| Reticular layer | consists of dense irregular connective tissue |
 
-| Term                            | Definition |
-|---------------------------------|------------|
-| Subcutaneous Layer (Hypodermis) |            |
+| Term | Definition |
+|----|----|
+| Subcutaneous Layer (Hypodermis) | connects dermis to underlying connective tissue |
 
 **Integumentary Structures**
 
-| Term                            | Definition |
-|---------------------------------|------------|
-| Dermal papillae                 |            |
-| Hair shaft                      |            |
-| Hair root                       |            |
-| Hair follicle                   |            |
-| Pore                            |            |
-| Arrector pili muscle            |            |
-| Sebaceous gland                 |            |
-| Merocrine (eccrine) sweat gland |            |
-| Apocrine sweat gland            |            |
-| Free nerve ending               |            |
-| Meissner's (tactile) corpuscle  |            |
-| Pacinian (pressure) corpuscle   |            |
-| Keratinocyte                    |            |
-| Melanocyte                      |            |
+| Term | Definition |
+|----|----|
+| Dermal papillae | specialized cluster of cells located at base of follicle that is primary signal center to regulate follicle |
+| Hair shaft | parts of hair that protrudes out of skin |
+| Hair root | structure of connective tissue papilla and layer of epithelial cells that produce shaft |
+| Hair follicle | accessory structure that begins at surface and ends at papilla |
+| Pore | tunnel structure hair grows out of |
+| Arrector pili muscle | muscles that cause hair to erect |
+| Sebaceous gland | scretes sebum to inhibit bacteria and moisterize hair |
+| Merocrine (eccrine) sweat gland | secretes sweat onto skin for cooling |
+| Apocrine sweat gland | secrets in armpits and smells bad |
+| Free nerve ending | specialized nerve that transmits stimuli |
+| Meissner's (tactile) corpuscle | receptor in dermal papillae to detect low vibrations |
+| Pacinian (pressure) corpuscle | receptor in deep skin to detect high frequencies |
+| Keratinocyte | primary cell of epidermis, which forms protective layer of skin |
+| Melanocyte | cell that distributes pigment of skin |
 
 ## **Prelab Activity 5.2**
 
@@ -98,16 +98,16 @@ Using your textbook define or identify the following layers.
 
 ### Label the following layers.
 
--   4: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   5: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   6: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   4: \_epidermis\_
+-   5: \_dermis\_
+-   6: \_\_hypodermis\_\_
 
 ### Label the following accessory structures:
 
--   15: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   21: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   14: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   20: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   15: \_sebaceous gland\_
+-   21: \_pacinian corpuscle\_
+-   14: \_arrector pili muscle\_
+-   20: \_eccrine sweat gland\_
 
 ## **Lab Activities**
 
@@ -147,13 +147,13 @@ The Integumentary system functions include but are not limited to the following 
 
 **Table 5.1 Epidermal Layers (Listed Superficial to Deep)**
 
-| Epidermal Layer               | Major Features |
-|-------------------------------|----------------|
-| Stratum corneum               |                |
-| Stratum lucidum               |                |
-| Stratum granulosum            |                |
-| Stratum spinosum              |                |
-| Stratum basale (germinitivum) |                |
+| Epidermal Layer | Major Features |
+|----|----|
+| Stratum corneum | layer of flat dead keratinocytes that is waterproof and most sturdy |
+| Stratum lucidum | glass layer only in thick skin |
+| Stratum granulosum | live keratinocytes |
+| Stratum spinosum | full of keratinocytes bound by desmosomes, immune cells, dendrites |
+| Stratum basale (germinitivum) | deepest, attached to basement membrane, has stem cells |
 
 ## **Lab Activities**
 
@@ -246,19 +246,19 @@ Describe the function of each of the listed dermal structures.
 
 **Table 5.3 Table of the Dermal Structures and their Function**
 
-| Dermal Structure                | Function(s) |
-|---------------------------------|-------------|
-| Dermal papillae                 |             |
-| Pore                            |             |
-| Arrector pili muscle            |             |
-| Sebaceous gland                 |             |
-| Merocrine (eccrine) sweat gland |             |
-| Apocrine sweat gland            |             |
-| Free nerve ending               |             |
-| Meissner's (tactile) corpuscle  |             |
-| Pacinian (pressure) corpuscle   |             |
-| Keratinocyte                    |             |
-| Melanocyte                      |             |
+| Dermal Structure | Function(s) |
+|----|----|
+| Dermal papillae | primary hair command |
+| Pore | exit for sebum and sweat |
+| Arrector pili muscle | muscles that erect hair |
+| Sebaceous gland | sebum producer |
+| Merocrine (eccrine) sweat gland | releases water |
+| Apocrine sweat gland | releases creamy sweat from armpits |
+| Free nerve ending | detects pain, temperature, itch |
+| Meissner's (tactile) corpuscle | tactile feel, used for gripping, superficial |
+| Pacinian (pressure) corpuscle | deep skin feel, detects pressure, and high vibrations |
+| Keratinocyte | keratinized skin cell |
+| Melanocyte | pigment cell |
 
 ## **Epidermis**
 
@@ -339,19 +339,19 @@ Using a model or diagram of the integumentary system, identify and describe the 
 
 -   Name the layers of the dermis.
 
-\
+papillary, reticular\
 \
 \
 
 -   List three major types of glands associated with the integumentary system and describe their function.
 
-\
+sebaceus gland: secretes sebum. meccrine: releases sweat. Apocrine: releases ilky sweat in arm pits\
 \
 \
 
 -   What are the three protective functions of the integumentary system?
 
-\
+immune defense, tissue defense, UV defense\
 \
 \
 
@@ -362,20 +362,20 @@ Using a model or diagram of the integumentary system, identify and describe the 
 ## **Table 5.4 Matching: Write the Letter of the Definition in the Column to the Left of the Term**
 
 | \# | Terms | Definitions |
-|-----|---------------|------------------------------------------|
-| 1 | Pore | a\. The part of a hair projecting beyond the surface of the skin |
-| 2 | Arrector pili muscle | b\. An onion-shaped structure that is responsible for sensitivity to vibration and pressure |
-| 3 | Meissner's corpuscle | c\. Any of the small sacculated glands lodged in the substance of the derma, usually opening into the hair follicles, and secreting an oily material |
-| 4 | Pacinian corpuscle | d\. An organ found in mammalian skin which regulates hair growth |
-| 5 | Keratinocyte | e\. A small opening or empty space. |
-| 6 | Apocrine sweat gland | f\. The enlarged basal part of a hair within the skin |
-| 7 | Hair follicle | g\. A type of nerve ending in the skin that is responsible for sensitivity to pressure |
-| 8 | Dermal papillae | h\. The small smooth muscles associated with the base of each hair that contract when the body surface is chilled and erect the hairs |
-| 9 | Merocrine sweat gland | i\. Glands found in places like the armpits, scrotum, and anus. They tend to open into hair follicles instead of hairless areas of skin. |
-| 10 | Hair root | j\. An unspecialized, afferent nerve fiber ending of a sensory neuron |
-| 11 | Sebaceous gland | k\. An epidermal cell that produces keratin. |
-| 12 | Free nerve ending | l\. True sweat glands in the sense of helping to regulate body temperature |
-| 13 | Hair shaft | m\. Any vascular protuberance of the skin's dermal layer extending into the epidermal layer, often containing tactile corpuscles |
+|----|----|----|
+| 1 e | Pore | a\. The part of a hair projecting beyond the surface of the skin |
+| 2 h | Arrector pili muscle | b\. An onion-shaped structure that is responsible for sensitivity to vibration and pressure |
+| 3 g | Meissner's corpuscle | c\. Any of the small sacculated glands lodged in the substance of the derma, usually opening into the hair follicles, and secreting an oily material |
+| 4 b | Pacinian corpuscle | d\. An organ found in mammalian skin which regulates hair growth |
+| 5 k | Keratinocyte | e\. A small opening or empty space. |
+| 6 i | Apocrine sweat gland | f\. The enlarged basal part of a hair within the skin |
+| 7 m | Hair follicle | g\. A type of nerve ending in the skin that is responsible for sensitivity to pressure |
+| 8 d | Dermal papillae | h\. The small smooth muscles associated with the base of each hair that contract when the body surface is chilled and erect the hairs |
+| 9 L | Merocrine sweat gland | i\. Glands found in places like the armpits, scrotum, and anus. They tend to open into hair follicles instead of hairless areas of skin. |
+| 10 f | Hair root | j\. An unspecialized, afferent nerve fiber ending of a sensory neuron |
+| 11 c | Sebaceous gland | k\. An epidermal cell that produces keratin. |
+| 12 j | Free nerve ending | l\. True sweat glands in the sense of helping to regulate body temperature |
+| 13 a | Hair shaft | m\. Any vascular protuberance of the skin's dermal layer extending into the epidermal layer, often containing tactile corpuscles |
 
 Match the following terms with the correct parts in figure 5.15.
 
@@ -383,19 +383,19 @@ Match the following terms with the correct parts in figure 5.15.
 
 | Dermal Structure      | Number on Figure 5.15 |
 |-----------------------|-----------------------|
-| Pore                  |                       |
-| Arrector pili muscle  |                       |
-| Meissner's corpuscle  |                       |
-| Pacinian corpuscle    |                       |
-| Keratinocyte          |                       |
+| Pore                  | 1                     |
+| Arrector pili muscle  | 14                    |
+| Meissner's corpuscle  | 3                     |
+| Pacinian corpuscle    | 21                    |
+| Keratinocyte          | 10                    |
 | Apocrine sweat gland  |                       |
-| Hair follicle         |                       |
-| Dermal papillae       |                       |
-| Merocrine sweat gland |                       |
-| Hair root             |                       |
-| Sebaceous gland       |                       |
-| Free nerve ending     |                       |
-| Hair shaft            |                       |
+| Hair follicle         | 16                    |
+| Dermal papillae       | 2                     |
+| Merocrine sweat gland | 20                    |
+| Hair root             | 17                    |
+| Sebaceous gland       | 15                    |
+| Free nerve ending     | 13                    |
+| Hair shaft            | 9                     |
 
 ![](images/_page_115_Picture_3.jpeg)
 
@@ -406,22 +406,22 @@ Match the statement blank with the correct answer.
 **Table 5.6 Match the statement with the best answer.**
 
 | Answer | Statement | Possible Answer |
-|------------|--------------------------------------|-----------------|
-| a\. | The epidermis is composed of \_\_\_\_\_\_\_\_\_\_. | Hair bulb |
-| b\. | The deepest layer of the epidermis. | Sudoriferous |
-| c\. | The majority of the cells of the epidermis are \_\_\_\_\_\_\_\_\_\_ , so-called because they make \_\_\_\_\_\_\_\_\_\_. | stratum basale |
-| d\. | Melanocytes are located in the \_\_\_\_\_\_\_\_\_\_ (which layer?). | stratum lucidum |
-| e\. | Immune cells in the stratum spinosum which protect against invaders are the \_\_\_\_\_\_\_\_\_\_. | root |
-| f\. | A very thin layer called the \_\_\_\_\_\_\_\_\_\_ is in the epidermis but is visible only in thick skin. | keratin |
-| g\. | The first level of protection against abrasion and toxic chemicals at the body's surface is provided by the \_\_\_\_\_\_\_\_\_\_. | Hair shaft |
-| h\. | The dermis consists of two layers: the \_\_\_\_\_\_\_\_\_\_, which is characterized by a dimpled interface with the epidermis, and the \_\_\_\_\_\_\_\_\_\_, which accounts for 80% of the skin's thickness | Pacinian corpuscles; |
-| i\. | The reticular layer of the dermis contains \_\_\_\_\_\_\_\_\_\_ to sense firm pressure. | papillary layer; reticular layer |
-| j\. | Apocrine and eccrine glands are both \_\_\_\_\_\_\_\_\_\_ (sweat) glands. | keratinocytes; keratin |
-| k\. | \_\_\_\_\_\_\_\_\_\_ glands produce a waxy substance to protect the ear canal from dust, small insects, etc. | squamous epithelial tissue |
-| l\. | The portion of the hair that is above the surface of the skin is called the \_\_\_\_\_\_\_\_\_\_. | Stratum corneum |
-| m\. | The sub-surface portion of the hair is called the \_\_\_\_\_\_\_\_\_\_. | Sudoriferous |
-| n\. | The origin of the hair shaft, deep within the dermis, is called the \_\_\_\_\_\_\_\_\_\_. | Ceruminous |
-| o\. | The sheath in which a hair is held is called \_\_\_\_\_\_\_\_\_\_. | Langerhans' cells |
+|----|----|----|
+| a\. simple epithelial tissue | The epidermis is composed of \_\_\_\_\_\_\_\_\_\_. | Hair bulb |
+| b\. stratum basale | The deepest layer of the epidermis. | Sudoriferous |
+| c\. keratinocytes, keratin | The majority of the cells of the epidermis are \_\_\_\_\_\_\_\_\_\_ , so-called because they make \_\_\_\_\_\_\_\_\_\_. | stratum basale |
+| d.stratum basale | Melanocytes are located in the \_\_\_\_\_\_\_\_\_\_ (which layer?). | stratum lucidum |
+| e.dendritic cells | Immune cells in the stratum spinosum which protect against invaders are the \_\_\_\_\_\_\_\_\_\_. | root |
+| f.stratum lucidum | A very thin layer called the \_\_\_\_\_\_\_\_\_\_ is in the epidermis but is visible only in thick skin. | keratin |
+| g\. stratum corneum | The first level of protection against abrasion and toxic chemicals at the body's surface is provided by the \_\_\_\_\_\_\_\_\_\_. | Hair shaft |
+| h\. papillary layer, reticular layer | The dermis consists of two layers: the \_\_\_\_\_\_\_\_\_\_, which is characterized by a dimpled interface with the epidermis, and the \_\_\_\_\_\_\_\_\_\_, which accounts for 80% of the skin's thickness | Pacinian corpuscles; |
+| i.pacinian corpsucles | The reticular layer of the dermis contains \_\_\_\_\_\_\_\_\_\_ to sense firm pressure. | papillary layer; reticular layer |
+| j\. sudorifous | Apocrine and eccrine glands are both \_\_\_\_\_\_\_\_\_\_ (sweat) glands. | keratinocytes; keratin |
+| k\. ceruminous | \_\_\_\_\_\_\_\_\_\_ glands produce a waxy substance to protect the ear canal from dust, small insects, etc. | squamous epithelial tissue |
+| l\. shaft | The portion of the hair that is above the surface of the skin is called the \_\_\_\_\_\_\_\_\_\_. | Stratum corneum |
+| m\. root | The sub-surface portion of the hair is called the \_\_\_\_\_\_\_\_\_\_. | Sudoriferous |
+| n\. hair bulb | The origin of the hair shaft, deep within the dermis, is called the \_\_\_\_\_\_\_\_\_\_. | Ceruminous |
+| o\. follicle | The sheath in which a hair is held is called \_\_\_\_\_\_\_\_\_\_. | Langerhans' cells |
 |  |  | follicle |
 
 ## **Post Lab Activity 5.3**
@@ -434,23 +434,23 @@ Match the statement blank with the correct answer.
 
 ### **Across**
 
--   **7** the layer which serves to strengthen the skin and provides our skin with elasticity. It contains hair follicles, sweat glands, and sebaceous glands. (9,5)
--   **8** a thin layer of cells in the epidermis lying above the stratum spinosum and below the stratum corneum. (7,10)
--   **9** the outermost of the three layers that comprise the skin (9)
+-   **7** the layer which serves to strengthen the skin and provides our skin with elasticity. It contains hair follicles, sweat glands, and sebaceous glands. (9,5) reticular layer
+-   **8** a thin layer of cells in the epidermis lying above the stratum spinosum and below the stratum corneum. (7,10) stratum granulosum
+-   **9** the outermost of the three layers that comprise the skin (9) epidermis
 
 ### **Down**
 
--   **1** the outermost layer of the epidermis comprised of several levels of flattened corneocytes (7,7)
+-   **1** the outermost layer of the epidermis comprised of several levels of flattened corneocytes (7,7) stratum corneum
 
--   **2** a more superficial and significantly thinner layer of the dermis, mainly composed of areolar connective tissue. (9,5)
+-   **2** a more superficial and significantly thinner layer of the dermis, mainly composed of areolar connective tissue. (9,5) papillary layer
 
--   **3** the lowermost layer of the integumentary system in vertebrates. (10)
+-   **3** the lowermost layer of the integumentary system in vertebrates. (10) hypodermis
 
--   **4** a layer of the epidermis composed of polyhedral keratinocytes. (7,8)
+-   **4** a layer of the epidermis composed of polyhedral keratinocytes. (7,8) stratum spinosum
 
--   **5** the deepest layer of the five layers of the epidermis, the external covering of skin in mammals. The stratum. It is a single layer of columnar or cuboidal basal cells (7,6)
+-   **5** the deepest layer of the five layers of the epidermis, the external covering of skin in mammals. The stratum. It is a single layer of columnar or cuboidal basal cells (7,6) stratum basale
 
--   **6** a thin, clear layer of dead skin cells in the epidermis named for its translucent appearance only in areas of thick skin (7,7)
+-   **6** a thin, clear layer of dead skin cells in the epidermis named for its translucent appearance only in areas of thick skin (7,7) stratum lucidum
 
 ## **Post Lab Activity 5.4**
 
@@ -458,25 +458,25 @@ Match the statement blank with the correct answer.
 
 -   You are a medical examiner (ME) who is performing an autopsy on a shooting victim. The bullet did not pass through the body and was lodged in the abdomen near the spine. The ME must find and retrieve the bullet to determine its caliber, so she needs to cut through the integument. List the layers that you would cut through from the superficial to the deepest layer.
 
-\
+epidermis, dermis, hypodermis\
 \
 \
 
 -   It is late in the summer and a young couple that had planted a garden began to freeze and can produce their products for use later in the year. Their garden was very productive, so they were able to store carrots, corn, sweet potatoes, spinach, butternut squash, broccoli, and cantaloupe for use in the winter. They have a four-month-old daughter, and they noticed that after they began feeding her some of the canned food her skin developed a yellowish orange tint. They immediately took her to the general practitioner (GP), and he checked out the child. Following the examination, he returned the child to the parents and with a smirk and gleam in his eyes he indicated that the child was fine but cautioned them that they should vary her diet. Explain why the GP is not concerned about the child's skin condition?
 
 \
-\
+skin is caused by carotene pigment from the vegetables they ate\
 \
 
 -   Discuss how the Integumentary system's skin helps to regulate your body temperature, when your body temperature rises above normal.
 
-\
+The merocrine sweat glands cools body by secreting water for evaporation\
 \
 \
 
 -   How would you explain why a light skinned individual would be more susceptible to malignant melanoma?
 
-\
+Their melanin concentration is less dense so it's easier for UV radiation to affect them\
 \
 \
 
@@ -515,44 +515,44 @@ Using the picture below, identify the substructures within the following accesso
 \
 
 |   | List three major types of glands associated with the integumentary system and describe their function. |
-|------|--------------------------------------------------------|
-| a\) |  |
-| b\) |  |
-| c\) |  |
+|----|----|
+| a\) | sebaceous gland |
+| b\) | merocrine sweat gland |
+| c\) | apocrine sweat gland |
 
 |     | What are the three protective functions of the integumentary system? |
-|------|--------------------------------------------------------|
-| a\) |                                                                      |
-| b\) |                                                                      |
-| c\) |                                                                      |
+|-----|----------------------------------------------------------------------|
+| a\) | immunity                                                             |
+| b\) | abrasion protection                                                  |
+| c\) | UV radiation protection                                              |
 
 |     | List four functions of the integumentary system |
 |-----|-------------------------------------------------|
-| a\) |                                                 |
-| b\) |                                                 |
-| c\) |                                                 |
-| d\) |                                                 |
+| a\) | protection                                      |
+| b\) | temperature control                             |
+| c\) | stimuli                                         |
+| d\) | vitamin D synthesis                             |
 
 -   The skin is composed of what type of epithelial tissue?
 
 \
-\
+simple squamous\
 \
 
 | 1\) | List the five layers of the epidermis found in thick skin. Indicate which layer is not present in thin skin. |
-|-----|-------------------------------------------------------|
-| a\) |  |
-| b\) |  |
-| c\) |  |
-| d\) |  |
-| e\) |  |
+|----|----|
+| a\) | stratum corneum |
+| b\) | lucidum (only in thick) |
+| c\) | granulosum |
+| d\) | spinosum |
+| e\) | basale |
 
 | 2\) | Identify four accessory structures found in the dermis, describe their function. |
-|-----|-------------------------------------------------------|
-| a\) |  |
-| b\) |  |
-| c\) |  |
-| d\) |  |
+|----|----|
+| a\) | hair follicles |
+| b\) | pacinian corpuscles |
+| c\) | sebaceus gland |
+| d\) | merocrine sweat gland |
 
 ## **Answer keys**
 
@@ -565,7 +565,7 @@ Using the picture below, identify the substructures within the following accesso
 **Chapter 5: Integumentary System**
 
 | Key Terms | Definitions |
-|----------------------|-------------------------------------------------|
+|----|----|
 | acne | skin condition due to infected sebaceous glands |
 | albinism | genetic disorder that affects the skin, in which there is no melanin production |
 | apocrine sweat gland | sweat gland that is armpits and genital regions |
